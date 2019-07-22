@@ -1,0 +1,1 @@
+This repo is for JSBootcamp Hartcode Academy 2.
