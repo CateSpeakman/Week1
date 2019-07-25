@@ -7,7 +7,6 @@
 //The below function will calculate the social security tax 
 
 
-
 function getSocSecTax(grossPay)
 {
 
